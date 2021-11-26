@@ -1,2 +1,2 @@
 # Awakening Day
- Low Poly FPS survival game.
+ Low Poly FPS survival game. (under development.)
